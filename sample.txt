@@ -1,1 +1,1 @@
-"Hello This is From Microdegree"
+"Here we are trying to edit the sample.txt File  is edited now"
